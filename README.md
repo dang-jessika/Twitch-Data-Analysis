@@ -9,7 +9,7 @@ The objective of this project is to analyze the top 1,000 Twitch streamers to id
 * **Platform:** Google Colab / GitHub
 
 ## 📊 Key Insights
-* **Language Trends:** Streamers broadcasting in [Insert Language] showed a higher average growth rate compared to English-speaking channels.
+* **Language Trends:** Streamers broadcasting in Spanish, Arabic, Turkish and Portuguese showed a higher average growth rate compared to English-speaking channels.
 * **Maturity Rating:** Channels marked as 'Mature' had a [Higher/Lower] average viewer count, suggesting a specific audience niche.
 * **Top Growth:** The top 5% of streamers account for over [X]% of total followers gained in this dataset.
 
