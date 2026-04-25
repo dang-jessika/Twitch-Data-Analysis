@@ -10,8 +10,7 @@ The objective of this project is to analyze the top 1,000 Twitch streamers to id
 
 ## 📊 Key Insights
 * **Language Trends:** Streamers broadcasting in Spanish, Arabic, Turkish and Portuguese showed a higher average growth rate compared to English-speaking channels.
-* **Maturity Rating:** Channels marked as 'Mature' had a [Higher/Lower] average viewer count, suggesting a specific audience niche.
-* **Top Growth:** The top 5% of streamers account for over [X]% of total followers gained in this dataset.
+* **Maturity Rating:** Channels marked as 'Not Mature' had a higher viewer count on an average, suggesting the hype among youngsters.
 
 ## 📈 How to Run
 1. Open the `.ipynb` file in this repository.
